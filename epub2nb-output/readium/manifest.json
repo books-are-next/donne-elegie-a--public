@@ -1,0 +1,374 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Elegie a písně",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "John Donne",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-01-26T00:00:00.000Z",
+    "published": "2021-01-25T06:26:44.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/elegie_a_pisne_043.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_elegie_a_pisne.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ELEGIE",
+      "children": [
+        {
+          "title": "Parfém",
+          "href": "OEBPS/Text/elegie_a_pisne_006.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Žárlivost",
+          "href": "OEBPS/Text/elegie_a_pisne_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Lekce",
+          "href": "OEBPS/Text/elegie_a_pisne_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Odchod na lože",
+          "href": "OEBPS/Text/elegie_a_pisne_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Láska na postupu",
+          "href": "OEBPS/Text/elegie_a_pisne_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Změna",
+          "href": "OEBPS/Text/elegie_a_pisne_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Na svou milenku",
+          "href": "OEBPS/Text/elegie_a_pisne_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Jeho portrét",
+          "href": "OEBPS/Text/elegie_a_pisne_013.xhtml#_idParaDest-9"
+        }
+      ],
+      "href": "OEBPS/Text/elegie_a_pisne_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "PÍSNĚ A SONETY",
+      "children": [
+        {
+          "title": "Píseň",
+          "href": "OEBPS/Text/elegie_a_pisne_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Píseň",
+          "href": "OEBPS/Text/elegie_a_pisne_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Spoutaná láska",
+          "href": "OEBPS/Text/elegie_a_pisne_017.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Rozbřesk",
+          "href": "OEBPS/Text/elegie_a_pisne_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Čarování obrazem",
+          "href": "OEBPS/Text/elegie_a_pisne_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Lhostejnost",
+          "href": "OEBPS/Text/elegie_a_pisne_020.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Přízrak",
+          "href": "OEBPS/Text/elegie_a_pisne_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Ženská stálost",
+          "href": "OEBPS/Text/elegie_a_pisne_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Božstvo lásky",
+          "href": "OEBPS/Text/elegie_a_pisne_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Odkaz",
+          "href": "OEBPS/Text/elegie_a_pisne_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Zlomené srdce",
+          "href": "OEBPS/Text/elegie_a_pisne_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Trojí bláznovství",
+          "href": "OEBPS/Text/elegie_a_pisne_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Blecha",
+          "href": "OEBPS/Text/elegie_a_pisne_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Poslední vůle",
+          "href": "OEBPS/Text/elegie_a_pisne_028.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Záporná láska",
+          "href": "OEBPS/Text/elegie_a_pisne_029.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Extáze",
+          "href": "OEBPS/Text/elegie_a_pisne_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Horečka",
+          "href": "OEBPS/Text/elegie_a_pisne_031.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Dobré jitro",
+          "href": "OEBPS/Text/elegie_a_pisne_032.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Výročí",
+          "href": "OEBPS/Text/elegie_a_pisne_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Východ slunce",
+          "href": "OEBPS/Text/elegie_a_pisne_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Kanonizace",
+          "href": "OEBPS/Text/elegie_a_pisne_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Vzduch a andělé",
+          "href": "OEBPS/Text/elegie_a_pisne_036.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Nekonečnost lásky",
+          "href": "OEBPS/Text/elegie_a_pisne_037.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Přednáška o stínu",
+          "href": "OEBPS/Text/elegie_a_pisne_038.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Alchymie lásky",
+          "href": "OEBPS/Text/elegie_a_pisne_039.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Výhost lásce",
+          "href": "OEBPS/Text/elegie_a_pisne_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Twickenhamská zahrada",
+          "href": "OEBPS/Text/elegie_a_pisne_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Relikvie",
+          "href": "OEBPS/Text/elegie_a_pisne_042.xhtml#_idParaDest-38"
+        }
+      ],
+      "href": "OEBPS/Text/elegie_a_pisne_014.xhtml#_idParaDest-10"
+    }
+  ]
+}
