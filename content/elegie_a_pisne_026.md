@@ -3,7 +3,9 @@ title: Trojí bláznovství
 contentType: prose
 ---
 
-          _Jsem dvakrát blázen, vím,  
+<section>
+
+_Jsem dvakrát blázen, vím,  
      že miluju a plačtivým  
           veršem to vykládám:  
 Nač zmoh by se však ten, jímž nejsem sám,  
@@ -14,6 +16,10 @@ se z mořské vody vyplavuje sůl,
 tím, že bych na ně rýmy zved jak hůl:  
 Nebolí tolik v rytmu psaný žal —  
 zkrotí jej, kdo jej do pout rýmů dal._
+
+</section>
+
+<section>
 
           _Když jsem to učinil,  
      kdosi — aby se pochlubil —  
@@ -26,3 +32,5 @@ ale ne těch, co příjemně se čtou;
 a triumf v řečech roznesou.  
 Z dvou bláznů třetí ve mně stane se:  
 nejvíc blázní, v kom je kus mudrce._
+
+</section>

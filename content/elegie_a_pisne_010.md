@@ -3,6 +3,8 @@ title: Láska na postupu
 contentType: prose
 ---
 
+<section>
+
 _Kdo miluje a v lásce nehledá  
 jediný pravý cíl, ten sám se dá  
 na moře kvůli mořské nemoci:  
@@ -99,3 +101,5 @@ Ti, kteří níže něco dluhují,
 kam hledí pokladník, se stěhují.  
 Kdo ne, ať přestane ho nosit zem —  
 vždyť žaludek chce krmit klystýrem!_
+
+</section>

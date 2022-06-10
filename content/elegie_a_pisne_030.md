@@ -3,6 +3,8 @@ title: Extáze
 contentType: prose
 ---
 
+<section>
+
 _Kde se jak polštář v loži dme  
      životem břeh, jenž podkládá  
 fialkám skráň, tam sedli jsme,  
@@ -79,3 +81,5 @@ Když milenec nás uslyší
      (dialog duše jediné),  
 proměny stěží všimne si,  
      až tělům duše vrátíme._
+
+</section>

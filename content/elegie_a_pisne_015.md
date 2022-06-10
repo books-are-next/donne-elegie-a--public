@@ -3,6 +3,8 @@ title: Píseň
 contentType: prose
 ---
 
+<section>
+
 _Padající hvězdu chyť,  
      mandragoře dítě zploď,  
 řekni, kam se čas moh skrýt,  
@@ -12,6 +14,10 @@ jak se vyhnout pomluvám
                a kdy dál  
                tam, kde vál,  
 vítr slušnost rozdmýchal._
+
+</section>
+
+<section>
 
 _Jestlis přišel uvidět,  
      co zrak spatřit netroufá si,  
@@ -23,6 +29,10 @@ o zázracích vyprávět,
                nevíš, kde  
 krásná žena věrná je._
 
+</section>
+
+<section>
+
 _Jak ji najdeš, piš, ať vím  
      o tvém šťastném putování;  
 nebo ne — vždyť ke dveřím  
@@ -32,3 +42,5 @@ ještě když jsi dopis psal,
                jenže než  
                přijedeš,  
 podvést dva tři stihne též._
+
+</section>

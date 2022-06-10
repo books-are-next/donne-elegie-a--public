@@ -3,6 +3,8 @@ title: Změna
 contentType: prose
 ---
 
+<section>
+
 _Ač lásce rukou, skutky, věrností  
 pečeť, již nezlomí nic, vtisklas ty,  
 a padneš-li, tím odpadlictvím jen  
@@ -39,3 +41,5 @@ jak políbí však břeh a nevrací
 se nikdy zpět a míří na další,  
 je nejčistší. Ve změně kořen tkví  
 věčnosti, hudbě, žití, blaženství._
+
+</section>

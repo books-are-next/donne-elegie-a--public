@@ -3,6 +3,8 @@ title: Na svou milenku
 contentType: prose
 ---
 
+<section>
+
 _Při prvním osudovém setkání,  
 při touhách, jimiž teď jsme sžíráni,  
 při chabých nadějích, při lítosti,  
@@ -59,3 +61,5 @@ Při bílých Alpách, vím to… šel pryč… sám!
 Vidím meč, ránu, krev. Ach, umírám!“  
 Věšti líp, aby Joviš neříkal:  
 Měl její lásku — tak co chtěl by dál!_
+
+</section>

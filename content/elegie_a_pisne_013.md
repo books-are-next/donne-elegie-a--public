@@ -3,6 +3,8 @@ title: Jeho portrét
 contentType: prose
 ---
 
+<section>
+
 _Obrázek vem si: sice loučím se,  
 tvůj jsem si vtisk však k duši — do srdce.  
 Je jako já — mrtvý — a bude víc,  
@@ -23,3 +25,5 @@ Co na něm hezké bylo dojemně,
 bylo jen mléko, jež jak nemluvně  
 tam sála láska: teď však sílu má,  
 že jí, co nezkušeným nechutná._
+
+</section>

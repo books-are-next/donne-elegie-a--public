@@ -3,6 +3,8 @@ title: Parfém
 contentType: prose
 ---
 
+<section>
+
 _Jednou, jen jednou viděli mě s tebou,  
 a o všem, cos prý vyvedla, svou vedou;  
 tak jako zloděj, jehož zpovídají  
@@ -75,3 +77,5 @@ Jestli jsi dobrý, dobro vyčpí ti;
 jsi vzácnost — a ta se vždy vytratí.  
 Všechny své parfémy na balzám rád  
 věnuji otci: Co? — Chce umírat?!_
+
+</section>

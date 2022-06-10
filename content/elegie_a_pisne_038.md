@@ -3,7 +3,9 @@ title: Přednáška o stínu
 contentType: prose
 ---
 
-     _Zastav se, lásko, chci ti dát  
+<section>
+
+_Zastav se, lásko, chci ti dát  
 svou lekci, jak má láska vypadat:  
      už tu přes celé tři hodiny  
      chodíme sem tam i se stíny,  
@@ -15,8 +17,16 @@ Teď ale slunce stojí nad náma,
      stínem být, přestrojit se, prchnout chtěla,  
 od nás i strastí — teď by neměnila:_
 
+</section>
+
+<section>
+
 _Vždyť láska, jež se choulí ve skrytu,  
 určitě nemůže být v zenitu!_
+
+</section>
+
+<section>
 
      _Přestože teď je poledne,  
 nový stín zas nám k nohám usedne:  
@@ -30,5 +40,11 @@ vydáni předstírání napospas.
      náš ale roste se svým dnem,  
 tak krátkým, když je láska nad hrobem:_
 
+</section>
+
+<section>
+
 _Láska je svit, jenž sílí nebo žhne,  
 noc vzejde jí, jak mine poledne._
+
+</section>

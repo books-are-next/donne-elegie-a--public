@@ -3,6 +3,8 @@ title: Píseň
 contentType: prose
 ---
 
+<section>
+
 _Nejdražší, já nejdu pryč,  
      protože mám tě dost,  
 ani že svět dá snad víc —  
@@ -11,6 +13,10 @@ ani že svět dá snad víc —
 takže lépe je snad chtít  
 jenom v kratochvílích žít,  
      v nichž smrt jen předstírám._
+
+</section>
+
+<section>
 
 _Slunce včera šlo už pryč,  
      a dnes tu zase straší,  
@@ -21,6 +27,10 @@ neměj — budu pospíchat,
 dám si třeba polámat  
      křídla a ostruhy._
 
+</section>
+
+<section>
+
 _V sobě nenajdem víc síly,  
      jak zklame štěstěna,  
 nemůžem si přidat chvíli  
@@ -29,6 +39,10 @@ nemůžem si přidat chvíli
 vlastní síly připojíme,  
 pak je spolu naučíme,  
      ať nás přeletí._
+
+</section>
+
+<section>
 
 _Vypouštíš mou duši, když  
      vzdycháš; jak řasami,  
@@ -39,6 +53,10 @@ z něhy krutá, zaslzíš,
 tak mou lásku promrháš —  
      ty, moje lepší já!_
 
+</section>
+
+<section>
+
 _Ať mi tvoje srdce zlo  
      už předem nevěští,  
 vždyť by osud napadlo  
@@ -47,3 +65,5 @@ vždyť by osud napadlo
 k spánku jsme se odvrátili —  
 ty, kdo skrze sebe žili,  
      nic rozvést nemůže._
+
+</section>

@@ -3,7 +3,9 @@ title: Výročí
 contentType: prose
 ---
 
-          _Králové s favority všemi,  
+<section>
+
+_Králové s favority všemi,  
           kavalíři a krásné ženy  
      i slunce, jež svým během měří čas,  
      dnešního dne jsou o rok starší zas  
@@ -13,6 +15,10 @@ contentType: prose
      ta neřídí se dneškem, včerejškem,  
      její běh není od nás útěkem,  
 vždyť žije prvním, posledním a věčným dnem._
+
+</section>
+
+<section>
 
           _Dvojí hrob nás má rozdělit:  
           proč jeden pro dva nemůžeme mít?  
@@ -25,6 +31,10 @@ vždyť žije prvním, posledním a věčným dnem._
      toto vše, nebo lásku na výsosti —  
 až hrob se zmocní těl, duše se hrobu zprostí._
 
+</section>
+
+<section>
+
           _Pak spolu šťastni budem i my,  
           ale ne zas víc, než jsou jiní.  
      Jsme králi na zemi — a který král  
@@ -35,3 +45,5 @@ až hrob se zmocní těl, duše se hrobu zprostí._
      milujme, žijme vznešeně, ať pádí  
      rok za rokem, až šedesátý z řady  
 nám napsat dá: Toto je chvíle naší vlády!_
+
+</section>
