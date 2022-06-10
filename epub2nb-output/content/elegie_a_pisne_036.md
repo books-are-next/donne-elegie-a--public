@@ -3,6 +3,8 @@ title: Vzduch a andělé
 contentType: prose
 ---
 
+<section>
+
 _Měl jsem tě párkrát v posteli,  
 než jméno poznal jsem a tvář,  
 tak jako hlas, jak netělesnou zář,  
@@ -18,6 +20,10 @@ láska se musí tělem přiodít.
 Teď, když se usídlila ve tvém těle,  
      vidím ji ve tvých očích, rtech i čele._
 
+</section>
+
+<section>
+
 _Zatížit chtěl jsem lásce kýl  
 (abych směr snáze udržel)  
 zbožím, pod kterým obdiv ke dnu šel —  
@@ -32,3 +38,5 @@ ze vzduchu, které z nouze odívá,
           Ty předěly,  
 co mezi vzduchem jsou a anděly,  
      vždy lásku žen a mužů oddělí._
+
+</section>

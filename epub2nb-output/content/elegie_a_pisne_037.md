@@ -3,6 +3,8 @@ title: Nekonečnost lásky
 contentType: prose
 ---
 
+<section>
+
 _Pokud z tvé lásky nemám vše,  
      celou už nebudu ji mít.  
 Došly mi vzdechy, jimiž dojmeš se,  
@@ -14,6 +16,10 @@ však přesto nepatří mi víc,
 Pokud jsi lásku chtěla rozdělit,  
 část já, a část ti druzí mají vzít,  
      pak celou nebudu tě mít._
+
+</section>
+
+<section>
 
 _Jestlis mi přesto dala vše,  
      bylo to vše jen z oněch dní.  
@@ -27,6 +33,10 @@ I kdybys všechny chtěla obšťastnit,
 půdu, tvé srdce, umím si přivlastnit  
      a vše, co roste z ní, mám mít._
 
+</section>
+
+<section>
+
 _Přesto sám nechtěl bych mít vše —  
      vždyť, kdo má vše, víc nesmí mít;  
 když den co den má láska naroste,  
@@ -38,3 +48,5 @@ Láska je div: chceš srdce rozdávat —
 Nevěrná srdce smíme zahanbit,  
 líp skrze sebe dokážeme žít,  
      vším sami navzájem si být._
+
+</section>

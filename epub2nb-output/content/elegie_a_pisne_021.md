@@ -3,6 +3,8 @@ title: Přízrak
 contentType: prose
 ---
 
+<section>
+
 _Až, vražednice, opovržením  
 mě zabiješ a zvykneš si,  
 že tě mé vzdechy neděsí,  
@@ -20,3 +22,5 @@ Co povím ti, to teď se neříká,
 aby ses nepřestala bát. Když dost  
 mé lásky máš, pak spíš než nevinnost  
 přeju ti trápení a kajícnost._
+
+</section>

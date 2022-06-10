@@ -3,6 +3,8 @@ title: Ženská stálost
 contentType: prose
 ---
 
+<section>
+
 _Milovalas mě celý den —  
 čím budu, až zas půjdeš, „oblažen“?  
 Nový slib budeš antidatovat?  
@@ -20,3 +22,5 @@ Ty náměsíčná, stačilo by chtít,
      moh bych se přít a zvítězit:  
      marných slov se však vzdám —  
 co kdybych zítra kles k tvým vytáčkám!_
+
+</section>

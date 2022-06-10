@@ -3,6 +3,8 @@ title: Kanonizace
 contentType: prose
 ---
 
+<section>
+
 _Proboha mlč a nech mě milovat,  
      vyčti mi dnu i ochrnutí,  
 šedý vlas, bída ať tě k smíchu nutí,  
@@ -12,6 +14,10 @@ _Proboha mlč a nech mě milovat,
 na pravé krále, i ty na minci —  
      nic z toho nebudu ti brát,  
      jen nech mě milovat!_
+
+</section>
+
+<section>
 
 _Kdo měl z mé lásky na svých údech škodu?  
      Čí lodě můj vzdech potopil?  
@@ -23,6 +29,10 @@ Voják má války, právník z lidí žil,
      co do sporů se musí dát —  
      my chcem se milovat._
 
+</section>
+
+<section>
+
 _I k nadávkám se pro svou lásku známe —  
      za můry můžete nás mít:  
 jsme svíce, na náš účet je nám mřít,  
@@ -32,6 +42,10 @@ Sám Fénix víc má do sebe
 Pohlaví, jež nás pojí, zanikne,  
      po smrti (zázrak!) můžem vstát —  
      uměním milovat._
+
+</section>
+
+<section>
 
 _Umírat můžem láskou, snad i žít:  
      když hrob náš příběh nepřijme,  
@@ -43,6 +57,10 @@ líp nežli hrobka kostem věčný klid.
      Zpěv má nás kanonizovat —  
      pro náš dar milovat._
 
+</section>
+
+<section>
+
 _Nás vzývat budou: Vy, kdo navzájem  
      žili jste v lásce jako v poustevně,  
 vy, v nichž mír láska byla, ač teď žhne,  
@@ -52,3 +70,5 @@ vy, v nichž mír láska byla, ač teď žhne,
 esenci zemí, měst i dvorů všech —  
      kéž pro vás nebe chtělo dát  
      vzor, jak se milovat!_
+
+</section>

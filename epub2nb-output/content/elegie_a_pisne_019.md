@@ -3,6 +3,8 @@ title: Čarování obrazem
 contentType: prose
 ---
 
+<section>
+
 _Do tvého oka jsem se vpil,  
      litoval vlastní obraz, jenž v něm stál;  
 v průhledné slze se pak utopil,  
@@ -11,6 +13,10 @@ v průhledné slze se pak utopil,
 jež sama maluješ i rveš,  
 a zabíjíš, když bereš si, co chceš?_
 
+</section>
+
+<section>
+
 _Hlt slaných slz mi hrdlo stáh  
      a jdu pryč, ač víc naliješ;  
 zmizí můj obraz, zmizí strach,  
@@ -18,3 +24,5 @@ zmizí můj obraz, zmizí strach,
           Ač navíc zbyde ti  
 můj obraz, to už neplatí,  
 vždyť z tvého srdce zášť se vytratí._
+
+</section>

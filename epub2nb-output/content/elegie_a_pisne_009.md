@@ -3,6 +3,8 @@ title: Odchod na lože
 contentType: prose
 ---
 
+<section>
+
 _Pojď už, má paní, klid si nevnutím,  
 než lehneš si, mám potíž s lehnutím.  
 Když nepřátelé na dohled si stojí,  
@@ -51,3 +53,5 @@ Odhoď vše! Už té košile mám dost!
 Pokáním nestíhá se nevinnost.  
 Příkladem jdu ti, sám jsem nahý už:  
 přikrýt tě přece může jenom muž!_
+
+</section>

@@ -3,6 +3,8 @@ title: Žárlivost
 contentType: prose
 ---
 
+<section>
+
 _Ty hloupá, co máš muže dost  
 a přitom vyčítáš mu žárlivost —  
 kdyby ho nadmul jed a v rubáši  
@@ -37,3 +39,5 @@ Tam vysmějem se jeho intrikám,
 placeným špiclům, směšným nástrahám  
 jak měšťané v Londýně za Temží  
 starostovi, jak Němci papeži._
+
+</section>

@@ -3,6 +3,8 @@ title: Záporná láska
 contentType: prose
 ---
 
+<section>
+
 _Nekles jsem nikdy jako ti,  
 kdo na oči, rty naletí;  
      zřídka k těm, co jsou k všemu hluší  
@@ -13,6 +15,10 @@ Ač hloupý, riskuje víc cit,
 omyl si může dovolit —  
 teď, kdy už vím, co budu mít._
 
+</section>
+
+<section>
+
 _Má-li co dokonalé být,  
 co smí jen zápor vyjádřit,  
      v mé lásce se to nalezne.  
@@ -22,3 +28,5 @@ Umí-li někdo pochopit,
 rád o té maličkosti zvím:  
 Zatím se utěšuju tím,  
 že nespěchám-li, nezbloudím._
+
+</section>

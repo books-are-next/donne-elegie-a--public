@@ -3,7 +3,9 @@ title: Výhost lásce
 contentType: prose
 ---
 
-          _Když chtěl jsem se  
+<section>
+
+_Když chtěl jsem se  
 učit, co božského je na lásce,  
      já kořil se a náhle znal  
 víru jak neznaboh, když umřít má  
@@ -13,6 +15,10 @@ a vzývá, co nezná, moc neznáma,
 věcmi, jež poznal jsi, se zahltíš,  
 cenu jim určí touhy, takže snad  
 slábnutím klesnou, vzrůstem budou stát._
+
+</section>
+
+<section>
 
           _Však z jarmarku  
 král na zlatém trůně a z perníku  
@@ -25,6 +31,10 @@ co celé bavilo, teď má ten znak,
 že — pořád stejné — s bídou přehluší  
 otrávenost, co leží na duši._
 
+</section>
+
+<section>
+
           _Po závrati  
 veselí jako lvi a kohouti  
      nemůžeme být? Příroda  
@@ -36,6 +46,10 @@ vždyť hrůza, že je krátký, deptá nás,
 jen chvíli dychtivě nám může stát,  
 když potomky si chceme udělat._
 
+</section>
+
+<section>
+
           _A tak už sám,  
 co nikdo nenajde, víc nehledám,  
      už nechci nýt a štvát se prudce  
@@ -46,3 +60,5 @@ Až sejdu se s krásnými ženami,
 rád pokochám se, ale ze stínu —  
 zchladit se můžu všude. A když ne,  
 bylina už mi ocas vyškubne._
+
+</section>

@@ -3,6 +3,8 @@ title: Božstvo lásky
 contentType: prose
 ---
 
+<section>
+
 _S duchem milenců mluvit bych si přál,  
      zemřelých, než se Amor narodil.  
 Nevěřím, že kdo nejvíc miloval,  
@@ -10,6 +12,10 @@ Nevěřím, že kdo nejvíc miloval,
 Když ten bůh chtěl však osud vymyslit  
 a druhou přirozenost, zvyk, mám ctít,  
 tu, co mě nechce, musím chtít._
+
+</section>
+
+<section>
 
 _Kdo boha stvořil z něj, tak nebyl zmámen  
      a on to v mládí taky nedělal;  
@@ -19,6 +25,10 @@ z činného trpné. Měl jen učinit
 protějšky. Láska nemůže to být,  
      nemám-li tu, co chce mě, mít._
 
+</section>
+
+<section>
+
 _Dnes výsady však tolik přehání  
      každý bůh, že se Zeus červená.  
 Vztek, lichotky, chtíč, dohazování —  
@@ -27,6 +37,10 @@ Tou tyranií se tak probudit
 a svrhnout ho — pak nemusel bych chtít  
      tu, co mě nechce, celou mít._
 
+</section>
+
+<section>
+
 _Rebel a neznaboh, proč se tak přu,  
      jako bych z lásky měl to poslední?  
 Na lásku z lásky třeba zanevřu,  
@@ -34,3 +48,5 @@ Na lásku z lásky třeba zanevřu,
 což, má-li jiné, nechci okusit.  
 Zášť víc než faleš bude mi krev pít,  
      bude-li ta, již chci, mě chtít._
+
+</section>

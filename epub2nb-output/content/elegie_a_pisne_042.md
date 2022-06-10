@@ -3,7 +3,9 @@ title: Relikvie
 contentType: prose
 ---
 
-     _Až mě z hrobu zas vykopají,  
+<section>
+
+_Až mě z hrobu zas vykopají,  
      nového hosta do něj dají  
      (hroby už vědí, že jsou ženy  
      pro více loží předurčeny)  
@@ -14,6 +16,10 @@ místa si našli zde dva milenci,
 co při posledním krásném setkání  
 byli svou touhou třeba dohnáni  
 smluvit si v hrobě krátké shledání._
+
+</section>
+
+<section>
 
      _Hned jak tuhle věc hrobník zví  
      v zemi, kde vládne modlářství,  
@@ -27,6 +33,10 @@ Takové doby zázraky vždy ctily,
 byl bych rád, kdyby se zde poučily,  
 co zázraků jsme v lásce učinili._
 
+</section>
+
+<section>
+
      _Vždycky lásce jsme sloužili,  
      aniž jsme se tím mořili,  
      víc neznali jsme pohlaví,  
@@ -38,3 +48,5 @@ jež láme lidmi znásilněný řád.
 Ty zázraky jsme činili, leč hned  
 rytmus i řeč bych musel umlčet,  
 kdybych měl na ni — zázrak! — ódy pět._
+
+</section>

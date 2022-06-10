@@ -3,13 +3,19 @@ title: Dobré jitro
 contentType: prose
 ---
 
-     _Moc rád bych věděl, kde jsme — ty a já —  
+<section>
+
+_Moc rád bych věděl, kde jsme — ty a já —  
           byli, než jsme se spolu milovali!  
      Jak malí sáli jsme prs venkova?  
           V jeskyni Sedmispáčů jsme snad spali?  
      Snad — ale stejně to jen přelud byl.  
      Pokud jsem po nějaké zatoužil,  
 když jsem s ní spal — sen o tobě jsem snil._
+
+</section>
+
+<section>
 
      _Dobrý den přeju probuzeným duším,  
           na sebe klidně mohou pohledět,  
@@ -19,6 +25,10 @@ když jsem s ní spal — sen o tobě jsem snil._
      ať na mapách je ostrov objevem —  
 nám stačí svět, jímž jsme si navzájem._
 
+</section>
+
+<section>
+
      _V očích si tváře objevujeme,  
           dvě prostá srdce v nich lze uvidět:  
      kde lepší hemisféry najdeme,  
@@ -26,3 +36,5 @@ nám stačí svět, jímž jsme si navzájem._
      Umírá, jen co v rovnováze není:  
      i smrti budem oba ušetřeni,  
 když nikdo nepoleví, nepodlehne mření._
+
+</section>
