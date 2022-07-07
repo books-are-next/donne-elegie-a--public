@@ -11,8 +11,8 @@ _Padající hvězdu chyť,
      proč má pazneht čertův rod,  
 jak zpěv Sirén slyšet mám,  
 jak se vyhnout pomluvám  
-               a kdy dál  
-               tam, kde vál,  
+            a kdy dál  
+            tam, kde vál,  
 vítr slušnost rozdmýchal._
 
 </section>
@@ -25,8 +25,8 @@ tisíc dní a nocí jeď,
      než věk zasněží ti vlasy;  
 až se vrátíš, začneš hned  
 o zázracích vyprávět,  
-               přiznáš, že  
-               nevíš, kde  
+            přiznáš, že  
+            nevíš, kde  
 krásná žena věrná je._
 
 </section>
@@ -39,8 +39,8 @@ nebo ne — vždyť ke dveřím
      přes chodbu bych nešel za ní:  
 věrná, když sis schůzku dal,  
 ještě když jsi dopis psal,  
-               jenže než  
-               přijedeš,  
+            jenže než  
+            přijedeš,  
 podvést dva tři stihne též._
 
 </section>
