@@ -58,7 +58,7 @@ tocBase:
   - id: section-1
     children:
       - link: elegie_a_pisne_005.html
-        title: ELEGIE
+        title: Elegie
         hiddenTitle: false
         children:
           - link: elegie_a_pisne_006.html
@@ -87,7 +87,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: elegie_a_pisne_014.html
-        title: PÍSNĚ A SONETY
+        title: Písně a sonety
         hiddenTitle: false
         children:
           - link: elegie_a_pisne_015.html
