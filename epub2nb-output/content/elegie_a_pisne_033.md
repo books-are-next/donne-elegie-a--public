@@ -1,11 +1,11 @@
 ---
 title: Výročí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Králové s favority všemi,  
+Králové s favority všemi,  
           kavalíři a krásné ženy  
      i slunce, jež svým během měří čas,  
      dnešního dne jsou o rok starší zas  
@@ -14,13 +14,13 @@ _Králové s favority všemi,
           jen naše láska nesehne v něm;  
      ta neřídí se dneškem, včerejškem,  
      její běh není od nás útěkem,  
-vždyť žije prvním, posledním a věčným dnem._
+vždyť žije prvním, posledním a věčným dnem.
 
 </section>
 
 <section>
 
-          _Dvojí hrob nás má rozdělit:  
+          Dvojí hrob nás má rozdělit:  
           proč jeden pro dva nemůžeme mít?  
      Jak jiní vládci v smrti nakonec  
      (navzájem jsme si panovníky přec)  
@@ -29,13 +29,13 @@ vždyť žije prvním, posledním a věčným dnem._
           však duše, jež jen lásku hostí  
      (nic víc v nich domov nemá), zkusí dosti  
      toto vše, nebo lásku na výsosti —  
-až hrob se zmocní těl, duše se hrobu zprostí._
+až hrob se zmocní těl, duše se hrobu zprostí.
 
 </section>
 
 <section>
 
-          _Pak spolu šťastni budem i my,  
+          Pak spolu šťastni budem i my,  
           ale ne zas víc, než jsou jiní.  
      Jsme králi na zemi — a který král  
      kdy lepším poddaným tu panoval!  
@@ -44,6 +44,6 @@ až hrob se zmocní těl, duše se hrobu zprostí._
           K obavám obraťme se zády,  
      milujme, žijme vznešeně, ať pádí  
      rok za rokem, až šedesátý z řady  
-nám napsat dá: Toto je chvíle naší vlády!_
+nám napsat dá: Toto je chvíle naší vlády!
 
 </section>

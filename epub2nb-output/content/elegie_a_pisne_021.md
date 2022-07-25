@@ -1,11 +1,11 @@
 ---
 title: Přízrak
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Až, vražednice, opovržením  
+Až, vražednice, opovržením  
 mě zabiješ a zvykneš si,  
 že tě mé vzdechy neděsí,  
 jak přízrak k tvému loži přistoupím:  
@@ -21,6 +21,6 @@ potem jak rtutí celá zalitá,
 Co povím ti, to teď se neříká,  
 aby ses nepřestala bát. Když dost  
 mé lásky máš, pak spíš než nevinnost  
-přeju ti trápení a kajícnost._
+přeju ti trápení a kajícnost.
 
 </section>

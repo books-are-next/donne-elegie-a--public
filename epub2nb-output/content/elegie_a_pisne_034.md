@@ -1,11 +1,11 @@
 ---
 title: Východ slunce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Slunce, ty drzý, vlezlý blázne,  
+Slunce, ty drzý, vlezlý blázne,  
           snad ještě spíš,  
 když záclonami v okně nahlížíš?!  
 Copak tvůj čas i milencům tu vládne?  
@@ -14,13 +14,13 @@ Copak tvůj čas i milencům tu vládne?
      lovčím dej vědět, že král vyrazí,  
      mravence vyžeň sklízet na pole —  
 vždyť láska stejně nedbá zeměpásů,  
-hodin a dnů, jež jsou jen cáry času._
+hodin a dnů, jež jsou jen cáry času.
 
 </section>
 
 <section>
 
-          _Proč na svou moc tak pyšné  
+          Proč na svou moc tak pyšné  
           je tvé záření?  
 Když mrknu, v mracích jsi, máš zatmění —  
 tu věčnost nezřít ji však zabije.  
@@ -29,13 +29,13 @@ tu věčnost nezřít ji však zabije.
      zda poklad obou Indií i pak  
      leží, kde dřív, anebo vedle mě.  
 Jen hledej krále, jež jsi včera zřel —  
-všechny bys v tomto loži uviděl._
+všechny bys v tomto loži uviděl.
 
 </section>
 
 <section>
 
-          _V ní každý stát, král ve mně žije,  
+          V ní každý stát, král ve mně žije,  
           dál není nic!  
 Vedle nás princ je kmán, čest není víc  
 než škleb a zlato pouhá alchymie.  
@@ -44,6 +44,6 @@ než škleb a zlato pouhá alchymie.
      jsi staré, trvá-li však povinnost  
      dál zemi hřát, stačí, když hřeješ nás.  
 Sviť nám, a budeš mít svět prosvícený:  
-lože tvým středem je, tvou sférou stěny!_
+lože tvým středem je, tvou sférou stěny!
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Lekce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Lásce jsem tě, laik přirozenosti  
+Lásce jsem tě, laik přirozenosti  
 chtěl učit — a ty jsi v té jemnosti  
 moc subtilní: tvé nitro nevnímá,  
 jak mluvit očima a rukama,  
@@ -34,6 +34,6 @@ strom poznání do tebe zasadil —
 ať plod má jiný?! Zlatem, smaltem mám  
 zdobit číši — a u skla zůstat sám?  
 Čistit vosk jiným? Hříbě zajíždět  
-a odejít, když jako kůň chce jet?_
+a odejít, když jako kůň chce jet?
 
 </section>

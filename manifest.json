@@ -1,0 +1,865 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Elegie a písně",
+  "author": "John Donne",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "donne-elegie-a-pisne-557ac51",
+  "revision": "557ac51",
+  "readingOrder": [
+    "promo.html",
+    "elegie_a_pisne_005.html",
+    "elegie_a_pisne_006.html",
+    "elegie_a_pisne_007.html",
+    "elegie_a_pisne_008.html",
+    "elegie_a_pisne_009.html",
+    "elegie_a_pisne_010.html",
+    "elegie_a_pisne_011.html",
+    "elegie_a_pisne_012.html",
+    "elegie_a_pisne_013.html",
+    "elegie_a_pisne_014.html",
+    "elegie_a_pisne_015.html",
+    "elegie_a_pisne_016.html",
+    "elegie_a_pisne_017.html",
+    "elegie_a_pisne_018.html",
+    "elegie_a_pisne_019.html",
+    "elegie_a_pisne_020.html",
+    "elegie_a_pisne_021.html",
+    "elegie_a_pisne_022.html",
+    "elegie_a_pisne_023.html",
+    "elegie_a_pisne_024.html",
+    "elegie_a_pisne_025.html",
+    "elegie_a_pisne_026.html",
+    "elegie_a_pisne_027.html",
+    "elegie_a_pisne_028.html",
+    "elegie_a_pisne_029.html",
+    "elegie_a_pisne_030.html",
+    "elegie_a_pisne_031.html",
+    "elegie_a_pisne_032.html",
+    "elegie_a_pisne_033.html",
+    "elegie_a_pisne_034.html",
+    "elegie_a_pisne_035.html",
+    "elegie_a_pisne_036.html",
+    "elegie_a_pisne_037.html",
+    "elegie_a_pisne_038.html",
+    "elegie_a_pisne_039.html",
+    "elegie_a_pisne_040.html",
+    "elegie_a_pisne_041.html",
+    "elegie_a_pisne_042.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 13:02:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658754158428
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "elegie_a_pisne_005.html",
+      "toc": []
+    },
+    {
+      "title": "ELEGIE",
+      "file": "elegie_a_pisne_005.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "elegie_a_pisne_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ELEGIE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Parfém",
+      "file": "elegie_a_pisne_006.html",
+      "words": 454,
+      "chars": 2415,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 2,
+      "prev": "elegie_a_pisne_005.html",
+      "next": "elegie_a_pisne_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Parfém",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žárlivost",
+      "file": "elegie_a_pisne_007.html",
+      "words": 198,
+      "chars": 1086,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 3,
+      "prev": "elegie_a_pisne_006.html",
+      "next": "elegie_a_pisne_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žárlivost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lekce",
+      "file": "elegie_a_pisne_008.html",
+      "words": 183,
+      "chars": 993,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 4,
+      "prev": "elegie_a_pisne_007.html",
+      "next": "elegie_a_pisne_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lekce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odchod na lože",
+      "file": "elegie_a_pisne_009.html",
+      "words": 307,
+      "chars": 1637,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 5,
+      "prev": "elegie_a_pisne_008.html",
+      "next": "elegie_a_pisne_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odchod na lože",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Láska na postupu",
+      "file": "elegie_a_pisne_010.html",
+      "words": 602,
+      "chars": 3148,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 6,
+      "prev": "elegie_a_pisne_009.html",
+      "next": "elegie_a_pisne_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska na postupu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Změna",
+      "file": "elegie_a_pisne_011.html",
+      "words": 234,
+      "chars": 1220,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 7,
+      "prev": "elegie_a_pisne_010.html",
+      "next": "elegie_a_pisne_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Změna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na svou milenku",
+      "file": "elegie_a_pisne_012.html",
+      "words": 328,
+      "chars": 1826,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 8,
+      "prev": "elegie_a_pisne_011.html",
+      "next": "elegie_a_pisne_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na svou milenku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jeho portrét",
+      "file": "elegie_a_pisne_013.html",
+      "words": 139,
+      "chars": 675,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 9,
+      "prev": "elegie_a_pisne_012.html",
+      "next": "elegie_a_pisne_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jeho portrét",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PÍSNĚ A SONETY",
+      "file": "elegie_a_pisne_014.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "elegie_a_pisne_013.html",
+      "next": "elegie_a_pisne_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PÍSNĚ A SONETY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň",
+      "file": "elegie_a_pisne_015.html",
+      "words": 110,
+      "chars": 587,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 11,
+      "prev": "elegie_a_pisne_014.html",
+      "next": "elegie_a_pisne_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň",
+      "file": "elegie_a_pisne_016.html",
+      "words": 162,
+      "chars": 848,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 12,
+      "prev": "elegie_a_pisne_015.html",
+      "next": "elegie_a_pisne_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spoutaná láska",
+      "file": "elegie_a_pisne_017.html",
+      "words": 107,
+      "chars": 606,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 13,
+      "prev": "elegie_a_pisne_016.html",
+      "next": "elegie_a_pisne_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spoutaná láska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozbřesk",
+      "file": "elegie_a_pisne_018.html",
+      "words": 106,
+      "chars": 540,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 14,
+      "prev": "elegie_a_pisne_017.html",
+      "next": "elegie_a_pisne_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozbřesk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čarování obrazem",
+      "file": "elegie_a_pisne_019.html",
+      "words": 81,
+      "chars": 411,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 15,
+      "prev": "elegie_a_pisne_018.html",
+      "next": "elegie_a_pisne_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čarování obrazem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lhostejnost",
+      "file": "elegie_a_pisne_020.html",
+      "words": 175,
+      "chars": 899,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 16,
+      "prev": "elegie_a_pisne_019.html",
+      "next": "elegie_a_pisne_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lhostejnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přízrak",
+      "file": "elegie_a_pisne_021.html",
+      "words": 97,
+      "chars": 496,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 17,
+      "prev": "elegie_a_pisne_020.html",
+      "next": "elegie_a_pisne_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přízrak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ženská stálost",
+      "file": "elegie_a_pisne_022.html",
+      "words": 99,
+      "chars": 519,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 18,
+      "prev": "elegie_a_pisne_021.html",
+      "next": "elegie_a_pisne_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ženská stálost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božstvo lásky",
+      "file": "elegie_a_pisne_023.html",
+      "words": 178,
+      "chars": 922,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 19,
+      "prev": "elegie_a_pisne_022.html",
+      "next": "elegie_a_pisne_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Božstvo lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odkaz",
+      "file": "elegie_a_pisne_024.html",
+      "words": 139,
+      "chars": 707,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 20,
+      "prev": "elegie_a_pisne_023.html",
+      "next": "elegie_a_pisne_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odkaz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlomené srdce",
+      "file": "elegie_a_pisne_025.html",
+      "words": 190,
+      "chars": 941,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 21,
+      "prev": "elegie_a_pisne_024.html",
+      "next": "elegie_a_pisne_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlomené srdce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trojí bláznovství",
+      "file": "elegie_a_pisne_026.html",
+      "words": 127,
+      "chars": 644,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 22,
+      "prev": "elegie_a_pisne_025.html",
+      "next": "elegie_a_pisne_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trojí bláznovství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Blecha",
+      "file": "elegie_a_pisne_027.html",
+      "words": 170,
+      "chars": 825,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 23,
+      "prev": "elegie_a_pisne_026.html",
+      "next": "elegie_a_pisne_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Blecha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední vůle",
+      "file": "elegie_a_pisne_028.html",
+      "words": 306,
+      "chars": 1756,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 24,
+      "prev": "elegie_a_pisne_027.html",
+      "next": "elegie_a_pisne_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední vůle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Záporná láska",
+      "file": "elegie_a_pisne_029.html",
+      "words": 92,
+      "chars": 475,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 25,
+      "prev": "elegie_a_pisne_028.html",
+      "next": "elegie_a_pisne_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Záporná láska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Extáze",
+      "file": "elegie_a_pisne_030.html",
+      "words": 360,
+      "chars": 1923,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 26,
+      "prev": "elegie_a_pisne_029.html",
+      "next": "elegie_a_pisne_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Extáze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Horečka",
+      "file": "elegie_a_pisne_031.html",
+      "words": 156,
+      "chars": 778,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 27,
+      "prev": "elegie_a_pisne_030.html",
+      "next": "elegie_a_pisne_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Horečka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dobré jitro",
+      "file": "elegie_a_pisne_032.html",
+      "words": 138,
+      "chars": 711,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 28,
+      "prev": "elegie_a_pisne_031.html",
+      "next": "elegie_a_pisne_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dobré jitro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výročí",
+      "file": "elegie_a_pisne_033.html",
+      "words": 189,
+      "chars": 970,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 29,
+      "prev": "elegie_a_pisne_032.html",
+      "next": "elegie_a_pisne_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výročí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Východ slunce",
+      "file": "elegie_a_pisne_034.html",
+      "words": 177,
+      "chars": 932,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 30,
+      "prev": "elegie_a_pisne_033.html",
+      "next": "elegie_a_pisne_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Východ slunce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kanonizace",
+      "file": "elegie_a_pisne_035.html",
+      "words": 269,
+      "chars": 1336,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 31,
+      "prev": "elegie_a_pisne_034.html",
+      "next": "elegie_a_pisne_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kanonizace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzduch a andělé",
+      "file": "elegie_a_pisne_036.html",
+      "words": 165,
+      "chars": 846,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 32,
+      "prev": "elegie_a_pisne_035.html",
+      "next": "elegie_a_pisne_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzduch a andělé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nekonečnost lásky",
+      "file": "elegie_a_pisne_037.html",
+      "words": 193,
+      "chars": 1016,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 33,
+      "prev": "elegie_a_pisne_036.html",
+      "next": "elegie_a_pisne_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nekonečnost lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přednáška o stínu",
+      "file": "elegie_a_pisne_038.html",
+      "words": 151,
+      "chars": 794,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 34,
+      "prev": "elegie_a_pisne_037.html",
+      "next": "elegie_a_pisne_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přednáška o stínu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Alchymie lásky",
+      "file": "elegie_a_pisne_039.html",
+      "words": 145,
+      "chars": 755,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 35,
+      "prev": "elegie_a_pisne_038.html",
+      "next": "elegie_a_pisne_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Alchymie lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výhost lásce",
+      "file": "elegie_a_pisne_040.html",
+      "words": 215,
+      "chars": 1075,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 36,
+      "prev": "elegie_a_pisne_039.html",
+      "next": "elegie_a_pisne_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výhost lásce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Twickenhamská zahrada",
+      "file": "elegie_a_pisne_041.html",
+      "words": 152,
+      "chars": 842,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 37,
+      "prev": "elegie_a_pisne_040.html",
+      "next": "elegie_a_pisne_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Twickenhamská zahrada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Relikvie",
+      "file": "elegie_a_pisne_042.html",
+      "words": 173,
+      "chars": 927,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 38,
+      "prev": "elegie_a_pisne_041.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Relikvie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 137,
+      "chars": 861,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "elegie_a_pisne_042.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 7215,
+      "chars": 37995,
+      "ideas": 1277
+    },
+    "chapters": {
+      "words": 7071,
+      "chars": 37101,
+      "ideas": 1257
+    }
+  }
+}

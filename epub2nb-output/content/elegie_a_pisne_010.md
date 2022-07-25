@@ -1,11 +1,11 @@
 ---
 title: Láska na postupu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdo miluje a v lásce nehledá  
+Kdo miluje a v lásce nehledá  
 jediný pravý cíl, ten sám se dá  
 na moře kvůli mořské nemoci:  
 láska je medvídě — jak lízat chci  
@@ -100,6 +100,6 @@ příroda — ale leží naproti:
 Ti, kteří níže něco dluhují,  
 kam hledí pokladník, se stěhují.  
 Kdo ne, ať přestane ho nosit zem —  
-vždyť žaludek chce krmit klystýrem!_
+vždyť žaludek chce krmit klystýrem!
 
 </section>

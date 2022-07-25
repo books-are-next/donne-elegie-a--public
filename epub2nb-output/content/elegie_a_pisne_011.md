@@ -1,11 +1,11 @@
 ---
 title: Změna
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ač lásce rukou, skutky, věrností  
+Ač lásce rukou, skutky, věrností  
 pečeť, již nezlomí nic, vtisklas ty,  
 a padneš-li, tím odpadlictvím jen  
 ji potvrdíš — moc, moc jsem vyděšen.  
@@ -40,6 +40,6 @@ v obrovském moři hlouběj zasmrádne:
 jak políbí však břeh a nevrací  
 se nikdy zpět a míří na další,  
 je nejčistší. Ve změně kořen tkví  
-věčnosti, hudbě, žití, blaženství._
+věčnosti, hudbě, žití, blaženství.
 
 </section>

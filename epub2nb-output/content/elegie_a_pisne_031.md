@@ -1,67 +1,67 @@
 ---
 title: Horečka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ne, neumři, vždyť zášť bych měl  
+Ne, neumři, vždyť zášť bych měl  
      k všem ženám, až bys mrtvá byla,  
 a chválit bych tě neuměl,  
-     kdybych si vzpomněl, že jsi žila!_
+     kdybych si vzpomněl, že jsi žila!
 
 </section>
 
 <section>
 
-_Ty umřít nemůžeš, já vím.  
+Ty umřít nemůžeš, já vím.  
      Smrt, pro tu svět se opustí,  
 až ty však rozejdeš se s ním,  
-     v tvém dechu duši vypustí._
+     v tvém dechu duši vypustí.
 
 </section>
 
 <section>
 
-_Když bez tebe, své duše, vzduch  
+Když bez tebe, své duše, vzduch  
      dýchá, je jen tvá podoba,  
 nejhezčí žena je tvůj duch,  
-     nejlepší muž jen hniloba._
+     nejlepší muž jen hniloba.
 
 </section>
 
 <section>
 
-_Školy, proč přít se o oheň,  
+Školy, proč přít se o oheň,  
      v němž shoří svět, což vtip se skví,  
 když máte přijít na to jen,  
-     že sálá z její horečky?_
+     že sálá z její horečky?
 
 </section>
 
 <section>
 
-_Ten žár ji ale nevstřebá,  
+Ten žár ji ale nevstřebá,  
      snést nemůže to mučení,  
 na dlouhé žhnutí potřeba  
-     je spousta zkaženosti v ní._
+     je spousta zkaženosti v ní.
 
 </section>
 
 <section>
 
-_Záchvaty jsou jen meteory,  
+Záchvaty jsou jen meteory,  
      jež v tobě brzy spálí se.  
 Ty najdeš neproměnné sféry  
-     v svém těle, jímž jsi, na kráse._
+     v svém těle, jímž jsi, na kráse.
 
 </section>
 
 <section>
 
-_Já vymyslel je, v tobě tisk,  
+Já vymyslel je, v tobě tisk,  
      i když jsou v tobě jen pár dní.  
 Chvíli tě mít je větší zisk  
-     než navždy všechny ostatní._
+     než navždy všechny ostatní.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Vzduch a andělé
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Měl jsem tě párkrát v posteli,  
+Měl jsem tě párkrát v posteli,  
 než jméno poznal jsem a tvář,  
 tak jako hlas, jak netělesnou zář,  
 v níž zříme, uctíváme anděly;  
@@ -18,13 +18,13 @@ láska se musí tělem přiodít.
      Otázku, číms dřív chtěla být,  
           přenechám lásce směle:  
 Teď, když se usídlila ve tvém těle,  
-     vidím ji ve tvých očích, rtech i čele._
+     vidím ji ve tvých očích, rtech i čele.
 
 </section>
 
 <section>
 
-_Zatížit chtěl jsem lásce kýl  
+Zatížit chtěl jsem lásce kýl  
 (abych směr snáze udržel)  
 zbožím, pod kterým obdiv ke dnu šel —  
 a lásce bárku jsem jen přetížil!  
@@ -37,6 +37,6 @@ ze vzduchu, které z nouze odívá,
      má láska ve tvé sféru má.  
           Ty předěly,  
 co mezi vzduchem jsou a anděly,  
-     vždy lásku žen a mužů oddělí._
+     vždy lásku žen a mužů oddělí.
 
 </section>

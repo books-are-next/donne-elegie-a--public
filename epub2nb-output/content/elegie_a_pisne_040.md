@@ -1,11 +1,11 @@
 ---
 title: Výhost lásce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když chtěl jsem se  
+Když chtěl jsem se  
 učit, co božského je na lásce,  
      já kořil se a náhle znal  
 víru jak neznaboh, když umřít má  
@@ -14,13 +14,13 @@ a vzývá, co nezná, moc neznáma,
           tak, když  
 věcmi, jež poznal jsi, se zahltíš,  
 cenu jim určí touhy, takže snad  
-slábnutím klesnou, vzrůstem budou stát._
+slábnutím klesnou, vzrůstem budou stát.
 
 </section>
 
 <section>
 
-          _Však z jarmarku  
+          Však z jarmarku  
 král na zlatém trůně a z perníku  
      není víc mlsán po tři dni  
 dětmi, než je věc, kterou milenci  
@@ -29,13 +29,13 @@ tak slepě ctí a zbožně přejí si;
           a tak  
 co celé bavilo, teď má ten znak,  
 že — pořád stejné — s bídou přehluší  
-otrávenost, co leží na duši._
+otrávenost, co leží na duši.
 
 </section>
 
 <section>
 
-          _Po závrati  
+          Po závrati  
 veselí jako lvi a kohouti  
      nemůžeme být? Příroda  
 poroučí (každý akt, jak tvrdí se,  
@@ -44,13 +44,13 @@ jeden den ze života odnese),
           ten špás,  
 vždyť hrůza, že je krátký, deptá nás,  
 jen chvíli dychtivě nám může stát,  
-když potomky si chceme udělat._
+když potomky si chceme udělat.
 
 </section>
 
 <section>
 
-          _A tak už sám,  
+          A tak už sám,  
 co nikdo nenajde, víc nehledám,  
      už nechci nýt a štvát se prudce  
 za něčím, co — jak mám to — škodí mi.  
@@ -59,6 +59,6 @@ Až sejdu se s krásnými ženami,
           zář dnů,  
 rád pokochám se, ale ze stínu —  
 zchladit se můžu všude. A když ne,  
-bylina už mi ocas vyškubne._
+bylina už mi ocas vyškubne.
 
 </section>
