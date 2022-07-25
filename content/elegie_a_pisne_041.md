@@ -1,11 +1,11 @@
 ---
 title: Twickenhamská zahrada
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vyprahlý vzdechy, v slzách utopený,  
+Vyprahlý vzdechy, v slzách utopený,  
      sem jaro hledat přicházím,  
      oči i uši mi zde plní  
 balšám, jímž jindy všechno vyléčím.  
@@ -13,13 +13,13 @@ balšám, jímž jindy všechno vyléčím.
 si lásku, jež vše v opak převtělí,  
      žluč místo many nadělí:  
 i sem, kde pravý ráj by mohl stát,  
-mou rukou přinesen byl had!_
+mou rukou přinesen byl had!
 
 </section>
 
 <section>
 
-_Zdravější byl bych, kdybych tak jen směl  
+Zdravější byl bych, kdybych tak jen směl  
      v plen zimní noci to vše dát,  
      kdyby mráz stromům pověděl,  
 že do očí se nesmějí mi smát.  
@@ -27,13 +27,13 @@ _Zdravější byl bych, kdybych tak jen směl
 a nepřestanu milovat, ať přec  
      jsem zaklet v necitlivou věc:  
 buď v mandragoru, abych rostl dál,  
-či v kašnu, abych život proplakal._
+či v kašnu, abych život proplakal.
 
 </section>
 
 <section>
 
-_Milenci, do křišťálu nabírejte  
+Milenci, do křišťálu nabírejte  
      slzy, jež vínem lásky jsou,  
      slzy svých milých vyzkoušejte —  
 když jinak chutnají, tak jistě lžou.  
@@ -41,6 +41,6 @@ když jinak chutnají, tak jistě lžou.
 pláč neprozradí ti víc nitro ženy  
      nežli stín, jak jsou oblečeny:  
 ó zvrhlé pohlaví, v němž pravdu dí  
-jen ta, co mě svou pravdou zahubí!_
+jen ta, co mě svou pravdou zahubí!
 
 </section>

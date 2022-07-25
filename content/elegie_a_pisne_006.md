@@ -1,11 +1,11 @@
 ---
 title: Parfém
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jednou, jen jednou viděli mě s tebou,  
+Jednou, jen jednou viděli mě s tebou,  
 a o všem, cos prý vyvedla, svou vedou;  
 tak jako zloděj, jehož zpovídají  
 všichni, kdo ten rok krádež k soudu dají,  
@@ -76,6 +76,6 @@ zlo, v němž jsem namočen, milovat mám?
 Jestli jsi dobrý, dobro vyčpí ti;  
 jsi vzácnost — a ta se vždy vytratí.  
 Všechny své parfémy na balzám rád  
-věnuji otci: Co? — Chce umírat?!_
+věnuji otci: Co? — Chce umírat?!
 
 </section>

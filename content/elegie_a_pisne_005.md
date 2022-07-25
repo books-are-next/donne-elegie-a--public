@@ -1,6 +1,6 @@
 ---
 title: ELEGIE
-contentType: prose
+contentType: poetry
 ---
 
 

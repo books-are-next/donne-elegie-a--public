@@ -1,11 +1,11 @@
 ---
 title: Extáze
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kde se jak polštář v loži dme  
+Kde se jak polštář v loži dme  
      životem břeh, jenž podkládá  
 fialkám skráň, tam sedli jsme,  
      navzájem sobě lepší já:  
@@ -80,6 +80,6 @@ tajemství lásky v duši tkví,
 Když milenec nás uslyší  
      (dialog duše jediné),  
 proměny stěží všimne si,  
-     až tělům duše vrátíme._
+     až tělům duše vrátíme.
 
 </section>

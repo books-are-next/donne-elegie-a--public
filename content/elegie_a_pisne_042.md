@@ -1,11 +1,11 @@
 ---
 title: Relikvie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Až mě z hrobu zas vykopají,  
+Až mě z hrobu zas vykopají,  
      nového hosta do něj dají  
      (hroby už vědí, že jsou ženy  
      pro více loží předurčeny)  
@@ -15,13 +15,13 @@ prstýnku plavých vlasů kolem kosti,
 místa si našli zde dva milenci,  
 co při posledním krásném setkání  
 byli svou touhou třeba dohnáni  
-smluvit si v hrobě krátké shledání._
+smluvit si v hrobě krátké shledání.
 
 </section>
 
 <section>
 
-     _Hned jak tuhle věc hrobník zví  
+     Hned jak tuhle věc hrobník zví  
      v zemi, kde vládne modlářství,  
      oba nás rovnou zabalí,  
      k biskupu vezme, ke králi  
@@ -31,13 +31,13 @@ Marií Magdalénou budeš pak,
 ženy a sem tam muž nás budou ctít.  
 Takové doby zázraky vždy ctily,  
 byl bych rád, kdyby se zde poučily,  
-co zázraků jsme v lásce učinili._
+co zázraků jsme v lásce učinili.
 
 </section>
 
 <section>
 
-     _Vždycky lásce jsme sloužili,  
+     Vždycky lásce jsme sloužili,  
      aniž jsme se tím mořili,  
      víc neznali jsme pohlaví,  
      než anděl strážný o něm ví;  
@@ -47,6 +47,6 @@ snad mohli, ne však pusou, která jí;
 jež láme lidmi znásilněný řád.  
 Ty zázraky jsme činili, leč hned  
 rytmus i řeč bych musel umlčet,  
-kdybych měl na ni — zázrak! — ódy pět._
+kdybych měl na ni — zázrak! — ódy pět.
 
 </section>

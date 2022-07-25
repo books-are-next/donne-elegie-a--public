@@ -1,11 +1,11 @@
 ---
 title: Ženská stálost
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Milovalas mě celý den —  
+Milovalas mě celý den —  
 čím budu, až zas půjdeš, „oblažen“?  
 Nový slib budeš antidatovat?  
      Či řekneš snad,  
@@ -21,6 +21,6 @@ umět být věrná zas jen ve falši?
 Ty náměsíčná, stačilo by chtít,  
      moh bych se přít a zvítězit:  
      marných slov se však vzdám —  
-co kdybych zítra kles k tvým vytáčkám!_
+co kdybych zítra kles k tvým vytáčkám!
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Alchymie lásky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ti, kdo důl lásky hlouběj než já znali,  
+Ti, kdo důl lásky hlouběj než já znali,  
 ke středu štěstí se prý prokutali:  
      chtěl jsem, bral a řeči ved,  
 však kdybych chtěl, bral, mluvil coby kmet,  
@@ -16,13 +16,13 @@ Ač nezná elixíry života,
      chválí ten, kterému z ní tek  
 s voňavkou náhodou i dobrý lék:  
 Když sní si milenci, slast konce nemá,  
-však sklidí letní noc, z níž čiší zima._
+však sklidí letní noc, z níž čiší zima.
 
 </section>
 
 <section>
 
-_Naše dny, čest i námaha a klid  
+Naše dny, čest i námaha a klid  
 stín bubliny by měly zaplatit?  
      Copak láska končí tam,  
 kde každý bude jak já sám,  
@@ -33,6 +33,6 @@ když ženicha hrát chvíli bude chtít?
      mohl by stejně přísahat,  
 že v šumaření slyší sféry hrát:  
 Nehledej v ženě duši; získáváš  
-jen mumii s vším šarmem, když ji máš!_
+jen mumii s vším šarmem, když ji máš!
 
 </section>

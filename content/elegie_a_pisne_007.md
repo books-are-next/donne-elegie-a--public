@@ -1,11 +1,11 @@
 ---
 title: Žárlivost
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ty hloupá, co máš muže dost  
+Ty hloupá, co máš muže dost  
 a přitom vyčítáš mu žárlivost —  
 kdyby ho nadmul jed a v rubáši  
 začal už vloni lapat po duši,  
@@ -38,6 +38,6 @@ můžem jít o dům dál, anebo ne?
 Tam vysmějem se jeho intrikám,  
 placeným špiclům, směšným nástrahám  
 jak měšťané v Londýně za Temží  
-starostovi, jak Němci papeži._
+starostovi, jak Němci papeži.
 
 </section>
