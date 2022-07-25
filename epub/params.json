@@ -96,6 +96,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Elegie",
             "children": [
               {
                 "filename": "elegie_a_pisne_006.md",
@@ -107,8 +108,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Parfém"
+                "title": "Parfém",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_007.md",
@@ -120,8 +121,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Žárlivost"
+                "title": "Žárlivost",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Lekce"
+                "title": "Lekce",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Odchod na lože"
+                "title": "Odchod na lože",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Láska na postupu"
+                "title": "Láska na postupu",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_011.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Změna"
+                "title": "Změna",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_012.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Na svou milenku"
+                "title": "Na svou milenku",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_013.md",
@@ -198,11 +199,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jeho portrét"
+                "title": "Jeho portrét",
+                "children": []
               }
-            ],
-            "title": "ELEGIE"
+            ]
           },
           {
             "filename": "elegie_a_pisne_014.md",
@@ -214,6 +214,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Písně a sonety",
             "children": [
               {
                 "filename": "elegie_a_pisne_015.md",
@@ -225,8 +226,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Píseň"
+                "title": "Píseň",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_016.md",
@@ -238,8 +239,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Píseň"
+                "title": "Píseň",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_017.md",
@@ -251,8 +252,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Spoutaná láska"
+                "title": "Spoutaná láska",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_018.md",
@@ -264,8 +265,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rozbřesk"
+                "title": "Rozbřesk",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_019.md",
@@ -277,8 +278,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čarování obrazem"
+                "title": "Čarování obrazem",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_020.md",
@@ -290,8 +291,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Lhostejnost"
+                "title": "Lhostejnost",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_021.md",
@@ -303,8 +304,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Přízrak"
+                "title": "Přízrak",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_022.md",
@@ -316,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ženská stálost"
+                "title": "Ženská stálost",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_023.md",
@@ -329,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Božstvo lásky"
+                "title": "Božstvo lásky",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_024.md",
@@ -342,8 +343,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Odkaz"
+                "title": "Odkaz",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_025.md",
@@ -355,8 +356,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zlomené srdce"
+                "title": "Zlomené srdce",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_026.md",
@@ -368,8 +369,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Trojí bláznovství"
+                "title": "Trojí bláznovství",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_027.md",
@@ -381,8 +382,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Blecha"
+                "title": "Blecha",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_028.md",
@@ -394,8 +395,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Poslední vůle"
+                "title": "Poslední vůle",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_029.md",
@@ -407,8 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Záporná láska"
+                "title": "Záporná láska",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_030.md",
@@ -420,8 +421,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Extáze"
+                "title": "Extáze",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_031.md",
@@ -433,8 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Horečka"
+                "title": "Horečka",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_032.md",
@@ -446,8 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dobré jitro"
+                "title": "Dobré jitro",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_033.md",
@@ -459,8 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Výročí"
+                "title": "Výročí",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_034.md",
@@ -472,8 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Východ slunce"
+                "title": "Východ slunce",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_035.md",
@@ -485,8 +486,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Kanonizace"
+                "title": "Kanonizace",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_036.md",
@@ -498,8 +499,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vzduch a andělé"
+                "title": "Vzduch a andělé",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_037.md",
@@ -511,8 +512,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nekonečnost lásky"
+                "title": "Nekonečnost lásky",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_038.md",
@@ -524,8 +525,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Přednáška o stínu"
+                "title": "Přednáška o stínu",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_039.md",
@@ -537,8 +538,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Alchymie lásky"
+                "title": "Alchymie lásky",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_040.md",
@@ -550,8 +551,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Výhost lásce"
+                "title": "Výhost lásce",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_041.md",
@@ -563,8 +564,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Twickenhamská zahrada"
+                "title": "Twickenhamská zahrada",
+                "children": []
               },
               {
                 "filename": "elegie_a_pisne_042.md",
@@ -576,11 +577,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Relikvie"
+                "title": "Relikvie",
+                "children": []
               }
-            ],
-            "title": "PÍSNĚ A SONETY"
+            ]
           },
           {
             "filename": "elegie_a_pisne_043.md",
@@ -925,6 +925,6 @@
       "user": "books-are-next",
       "repo": "donne-elegie-a-pisne"
     },
-    "generatedAt": 1658413313955
+    "generatedAt": 1658754042466
   }
 }
