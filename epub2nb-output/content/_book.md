@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2689-8
 readingOrder:
   - promo.html
   - elegie_a_pisne_005.html
