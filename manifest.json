@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "donne-elegie-a-pisne-1b0701a",
-  "revision": "1b0701a",
+  "identifier": "donne-elegie-a-pisne-84dfb9c",
+  "revision": "84dfb9c",
   "readingOrder": [
     "promo.html",
     "elegie_a_pisne_005.html",
@@ -53,8 +53,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 12:29:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659356978230
+    "date": "Thu Sep 29 2022 21:21:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486483885
   },
   "documents": [
     {
@@ -833,7 +833,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 141,
-      "chars": 897,
+      "chars": 898,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -853,7 +853,7 @@
   "totals": {
     "all": {
       "words": 7219,
-      "chars": 38031,
+      "chars": 38032,
       "ideas": 1278
     },
     "chapters": {
